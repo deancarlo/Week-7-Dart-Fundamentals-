@@ -1,0 +1,6 @@
+The Year Is 2026
+Year after 6 years: 2032
+Is leap year? false
+Total price: 21.49
+Hello, Puuu! My name is Arturo
+20 < 10 false

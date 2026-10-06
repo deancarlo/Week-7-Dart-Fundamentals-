@@ -1,0 +1,15 @@
+name: dart_activity_week7
+
+description: A simple Dart console program for Week 7.
+
+publish_to: 'none'
+
+version: 1.0.0
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^3.0.0
